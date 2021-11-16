@@ -10,7 +10,6 @@ I’m currently learning Web development using the Python Frameworks : FLASK & D
 I have worked upon MACHINE LEARNING frameworks : Sci-kit learn, TENSORFLOW.
 
 
-I’m looking to collaborate on Machine Learning and Web development project.
 
 
 
