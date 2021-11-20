@@ -11,7 +11,9 @@ I have worked upon MACHINE LEARNING frameworks : Sci-kit learn, TENSORFLOW.
 
 
 
+Hashnode :  https://dev21.hashnode.dev/
 
+Dev.to :    https://dev.to/devkant21
 
 Reach me @Twitter : @devkant21
 
