@@ -7,7 +7,7 @@ I’m interested in Web Development and Machine Learning Projects.
 I’m currently learning Web development using the Python Frameworks : FLASK & DJANGO.
 
 
-I have worked upon MACHINE LEARNING frameworks : Sci-kit learn, TENSORFLOW.
+I have worked upon MACHINE LEARNING frameworks : Sci-kit learn
 
 
 
