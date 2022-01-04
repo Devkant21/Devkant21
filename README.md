@@ -9,7 +9,7 @@ I’m currently learning Web development using the Vanilla Javascript.
 
 I have worked upon MACHINE LEARNING frameworks : Sci-kit learn
 
-I have worked with Django and Flask.
+I have worked with Django and Flask and built Blog websites and Ticketing System (CRUD operations) .
 
 
 
