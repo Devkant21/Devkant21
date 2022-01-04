@@ -1,13 +1,15 @@
 Hi there, I’m DEVKANT SWARGIARY.
 
 
-I’m interested in Web Development and Machine Learning Projects.
+I’m interested in Web Development.
 
 
-I’m currently learning Web development using the Python Frameworks : FLASK & DJANGO.
+I’m currently learning Web development using the Vanilla Javascript.
 
 
 I have worked upon MACHINE LEARNING frameworks : Sci-kit learn
+
+I have worked with Django and Flask.
 
 
 
