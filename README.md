@@ -4,13 +4,13 @@ Hi there, I’m DEVKANT SWARGIARY.
 I’m interested in Web Development and Open Source Projects.
 
 
-I’m currently learning Web development using the JavaScript library - React.
+I’m currently learning YAML & JSON in order to use it efficiently in Cloud Programming.
 
 
 I have worked upon MACHINE LEARNING frameworks : Sci-kit learn
 
 I have worked with Django and Flask and built Blog websites and Ticketing System (CRUD operations) .
-I have built and added features like Image slide using plain Vanilla JavaScript.
+I have built and added features like Image slide using plain Vanilla JavaScript. I have also built a few landing pages with React Js.
 
 
 
