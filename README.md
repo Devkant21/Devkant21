@@ -22,7 +22,9 @@
 &nbsp;&nbsp;
 
 <br />
+
 ## Blogs
+
 [Hashnode]  
 [Dev.to]
 <br />
@@ -34,7 +36,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"></code>
 
 <br />
@@ -63,7 +65,7 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 
-[D]: https://ds-portfolio-alpha.vercel.app/
+[website]: https://ds-portfolio-alpha.vercel.app/
 [github]: https://github.com/Devkant21
 [Twitter]: https://twitter.com/Devkant21
 [Hashnode]: https://dev21.hashnode.dev/
