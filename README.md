@@ -1,4 +1,4 @@
-## Hi there, I’m DEVKANT SWARGIARY [website].
+## Hi there, I’m DEVKANT SWARGIARY[website].
 
 
 - I’m interested in Web Development and Open Source Projects.
