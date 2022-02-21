@@ -1,4 +1,4 @@
-## Hi there, I’m DEVKANT SWARGIARY[website].
+## Hi there, I’m [DEVKANT SWARGIARY][website].
 
 
 - I’m interested in Web Development and Open Source Projects.
@@ -75,7 +75,7 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 
-[website]: https://ds-portfolio-alpha.vercel.app/
+[D]: https://ds-portfolio-alpha.vercel.app/
 [github]: https://github.com/Devkant21
 [Twitter]: https://twitter.com/Devkant21
 [Hashnode]: https://dev21.hashnode.dev/
