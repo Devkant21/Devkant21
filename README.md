@@ -4,13 +4,8 @@
 - I’m interested in Web Development and Open Source Projects.
 
 
-- I’m currently learning NEXTJS with TypeScript.
+- Currently implementing NEXTJS with TypeScript.
 
-
-- I have worked upon MACHINE LEARNING frameworks : Sci-kit learn
-
-- I have worked with Django and Flask and built Blog websites and Ticketing System (CRUD operations) .
-- I have built and added features like Image slide using plain Vanilla JavaScript. I have also built a few landing pages with React Js.
 
 ## Connect with me
 
