@@ -37,6 +37,7 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [React.js : Props](https://dev21.hashnode.dev/reactjs-props)
 - [Error: Malformed PostCSS Configuration - NextJS](https://dev21.hashnode.dev/error-malformed-postcss-configuration-nextjs)
 - [React Boilerplate Generation - Boilerplate generation through the ES7 extension (dsznajder)](https://dev21.hashnode.dev/react-boilerplate-generation)
 - [Hoisting in Javascript](https://dev21.hashnode.dev/hoisting-in-javascript)
