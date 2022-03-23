@@ -37,6 +37,8 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
+- [Functional Programming : Declarative](https://dev21.hashnode.dev/functional-programming-declarative)
 - [React.js : Props](https://dev21.hashnode.dev/reactjs-props)
 - [Error: Malformed PostCSS Configuration - NextJS](https://dev21.hashnode.dev/error-malformed-postcss-configuration-nextjs)
 - [React Boilerplate Generation - Boilerplate generation through the ES7 extension (dsznajder)](https://dev21.hashnode.dev/react-boilerplate-generation)
