@@ -4,9 +4,6 @@
 - I’m interested in Web Development and Open Source Projects.
 
 
-- Currently implementing NEXTJS with TypeScript.
-
-
 ## Connect with me
 
 [![website](./assets/globe-light.svg)](https://ds-portfolio-alpha.vercel.app/#gh-light-mode-only)
