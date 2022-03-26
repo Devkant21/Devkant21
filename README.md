@@ -35,6 +35,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 
+- [Currying in JavaScript](https://dev21.hashnode.dev/currying-in-javascript)
 - [Functional Programming : Declarative](https://dev21.hashnode.dev/functional-programming-declarative)
 - [React.js : Props](https://dev21.hashnode.dev/reactjs-props)
 - [Error: Malformed PostCSS Configuration - NextJS](https://dev21.hashnode.dev/error-malformed-postcss-configuration-nextjs)
