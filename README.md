@@ -1,7 +1,7 @@
 ## Hi there, I’m [DEVKANT SWARGIARY][website].
 
 
-- I’m interested in Web Development and Open Source Projects.
+- I’m interested in Web Development and Open Source Projects. Currently learning Go.
 
 
 ## Connect with me
