@@ -67,4 +67,10 @@ You can click the Preview link to take a look at your changes.
 [Dev.to]: https://dev.to/devkant21
 [email]: devkant21@gmail.com
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Devkant21/count.svg" />
+</p>
+
+
 
