@@ -62,6 +62,15 @@ You can click the Preview link to take a look at your changes.
 [Dev.to]: https://dev.to/devkant21
 [email]: devkant21@gmail.com
 
+<details>
+  <summary>
+    Github Stats
+  </summary>
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtarioPZ&layout=compact)
+  
+ </details>
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Devkant21/count.svg" />
