@@ -62,6 +62,8 @@ You can click the Preview link to take a look at your changes.
 [Dev.to]: https://dev.to/devkant21
 [email]: devkant21@gmail.com
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Devkant21&show_icons=true&theme=tokyonight" alt="Devkant-Swargiary" /> </p>
+
 <details>
   <summary>
     Github Stats
