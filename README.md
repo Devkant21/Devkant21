@@ -6,12 +6,6 @@
 
 ## Connect with me
 
-[![website](./assets/globe-light.svg)](https://ds-portfolio-alpha.vercel.app/#gh-light-mode-only)
-[![website](./assets/globe-dark.svg)](https://ds-portfolio-alpha.vercel.app/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./assets/twitter-light.svg)](https://twitter.com/devkant21#gh-light-mode-only)
-[![website](./assets/twitter-dark.svg)](https://twitter.com/devkant21#gh-dark-mode-only)
-&nbsp;&nbsp;
 
 
 <p align="center">
