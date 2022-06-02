@@ -13,6 +13,17 @@
 [![website](./assets/twitter-dark.svg)](https://twitter.com/devkant21#gh-dark-mode-only)
 &nbsp;&nbsp;
 
+
+<p align="center">
+  &nbsp;
+  <a href="https://www.youtube.com/channel/UCVSo6oM9UEwmbh8BH8Fx3bQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+    <a href="https://twitter.com/devkant21"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+ 
+
+  
+</p>
+
+
 <br />
 
 ## Blogs
@@ -62,7 +73,11 @@ You can click the Preview link to take a look at your changes.
 [Dev.to]: https://dev.to/devkant21
 [email]: devkant21@gmail.com
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Devkant21&show_icons=true&theme=tokyonight" alt="Devkant-Swargiary" /> </p>
+<p align="center"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=Devkant21&show_icons=true&theme=tokyonight" alt="Devkant-Swargiary" /> </p>
+<p align = "center">
+  
+  <img width="48%" src = "https://github-readme-streak-stats.herokuapp.com/?user=Devkant21&theme=radical">
+</p>
 
 <details>
   <summary>
