@@ -1,22 +1,15 @@
 ## Hi there, I’m [DEVKANT SWARGIARY][website].
 
 
-- I’m interested in Web Development and Open Source Projects. Currently learning Go.
+- I’m interested in Web Development and Open Source Projects. Currently learning Golang.
 
 <p align="center">
   &nbsp;
   <a href="https://www.youtube.com/channel/UCVSo6oM9UEwmbh8BH8Fx3bQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-    <a href="https://twitter.com/devkant21"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+    <a href="https://twitter.com/devkant21"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://dev21.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-FF0000?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
 </p>
 
-
-<br />
-------
-
-## Blogs
-
-[Hashnode]  
-[Dev.to]
 <br />
 
 ### Languages and Tools:
@@ -28,6 +21,15 @@
 <code><img height="25" src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png"></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
 <br />
+
+### Latest Youtube Videos
+
+<!-- YOUTUBE-VIDEO-LIST:START -->
+
+- [Gitpod - Intro #1](https://www.youtube.com/watch?v=e3wSrWcs4_E)
+- [JavaScript - Currying](https://www.youtube.com/watch?v=vM6bpuzudcU&t=18s)
+- [Gitbook - Walkthrough Tutorial](https://www.youtube.com/watch?v=-RfWmoXE3z4&t=646s)
+<!-- YOUTUBE-VIDEO-LIST:END -->
 
 ### Latest Blog Posts
 
