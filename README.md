@@ -34,6 +34,7 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Develop Web Applications using Reactjs in the Cloud?](https://fuelerhq.hashnode.dev/how-to-develop-web-applications-using-reactjs-in-the-cloud)
 - [How to Dockerize a NextJs application?](https://dev21.hashnode.dev/how-to-dockerize-a-nextjs-application)
 - [Currying in JavaScript](https://dev21.hashnode.dev/currying-in-javascript)
 - [Functional Programming : Declarative](https://dev21.hashnode.dev/functional-programming-declarative)
