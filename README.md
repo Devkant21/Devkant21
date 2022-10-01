@@ -15,10 +15,11 @@
 ### Languages and Tools:
 
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png?20120221235433"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png?20210506173343"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png?20220125121207"></code>
 <code><img height="25" src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png"></code>
+<code><img height="25" src="https://tailwindcss.com/_next/static/media/social-square.eab77323.jpg"></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
 <br />
 
@@ -26,6 +27,7 @@
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
 
+- [Go - Variables](https://www.youtube.com/watch?v=6f8GffalM3Q)
 - [Gitpod - Intro #1](https://www.youtube.com/watch?v=e3wSrWcs4_E)
 - [JavaScript - Currying](https://www.youtube.com/watch?v=vM6bpuzudcU&t=18s)
 - [Gitbook - Walkthrough Tutorial](https://www.youtube.com/watch?v=-RfWmoXE3z4&t=646s)
