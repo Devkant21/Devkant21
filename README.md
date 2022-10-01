@@ -1,7 +1,7 @@
 ## Hi there, I’m [DEVKANT SWARGIARY][website].
 
-
-- I’m interested in Web Development and Open Source Projects. Currently learning Golang.
+- I'm a Indie Software Developer based in India
+- I'm interested in Web Development and Open Source Projects.
 
 <p align="center">
   &nbsp;
