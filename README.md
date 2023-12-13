@@ -19,7 +19,7 @@
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png?20210506173343"></code>
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png?20220125121207"></code>
 <code><img height="25" src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png"></code>
-<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_prog"></code>
+<code><img height="25" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_prog](https://w7.pngwing.com/pngs/856/814/png-transparent-rust-system-programming-language-computer-programming-rusted-miscellaneous-computer-programming-bicycle-part.png)"></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
 <br />
 
