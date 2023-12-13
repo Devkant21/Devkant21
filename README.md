@@ -36,6 +36,7 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust](https://www.devoss.in/posts/rust)
 - [How to Develop Web Applications using Reactjs in the Cloud?](https://fuelerhq.hashnode.dev/how-to-develop-web-applications-using-reactjs-in-the-cloud)
 - [How to Dockerize a NextJs application?](https://dev21.hashnode.dev/how-to-dockerize-a-nextjs-application)
 - [Currying in JavaScript](https://dev21.hashnode.dev/currying-in-javascript)
@@ -58,7 +59,7 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 
-[website]: https://ds-portfolio-alpha.vercel.app/
+[website]: https://www.devoss.in/
 [github]: https://github.com/Devkant21
 [Twitter]: https://twitter.com/Devkant21
 [Hashnode]: https://dev21.hashnode.dev/
