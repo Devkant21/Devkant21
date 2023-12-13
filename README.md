@@ -19,9 +19,7 @@
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png?20210506173343"></code>
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png?20220125121207"></code>
 <code><img height="25" src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png"></code>
-<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png"></code>
-<code><img height="25" src="https://tailwindcss.com/_next/static/media/social-square.eab77323.jpg"></code>
-
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_white_logo.svg/1024px-Rust_programming_language_white_logo.svg.png"></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
 <br />
 
