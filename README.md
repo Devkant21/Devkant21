@@ -1,7 +1,7 @@
 ## Hi there, I’m [DEVKANT SWARGIARY][website].
 
 - I'm a Indie Software Developer based in India
-- Currently hacking low level stuffs with Rust-Lang
+- Currently hacking low level stuffs with Rust
 
 <p align="center">
   &nbsp;
