@@ -22,6 +22,7 @@
 <code><img height="25" src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png"></code>
 <code><img height="25" src="https://w7.pngwing.com/pngs/856/814/png-transparent-rust-system-programming-language-computer-programming-rusted-miscellaneous-computer-programming-bicycle-part.png"></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png"></code>
 <br />
 
 ### Latest Youtube Videos
