@@ -82,14 +82,7 @@ You can click the Preview link to take a look at your changes.
   <img width="48%" src = "https://github-readme-streak-stats.herokuapp.com/?user=Devkant21&theme=radical">
 </p>
 
-<details>
-  <summary>
-    Github Stats
-  </summary>
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devkant21&layout=compact)
-  
- </details>
+
 
 <p align="center"> 
   Visitor count<br>
