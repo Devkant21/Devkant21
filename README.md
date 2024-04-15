@@ -17,7 +17,7 @@
 
 <!-- OSS Projects:START -->
 
-- [Keyache](https://www.npmjs.com/package/keyache)
+- [Keyache - npm package](https://www.npmjs.com/package/keyache)
 
 <!-- OSS Projects:END -->
 
