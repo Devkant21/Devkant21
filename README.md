@@ -1,6 +1,6 @@
 ## Hi there, I’m [DEVKANT SWARGIARY][website].
 
-- I'm a Indie Software Developer based in India
+- Engineering @VIERBYTE LABS LLP
 
 
 <p align="center">
