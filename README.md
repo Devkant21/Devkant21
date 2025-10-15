@@ -1,6 +1,7 @@
 ## Hi there, I’m [DEVKANT SWARGIARY][website].
 
 - Engineering @VIERBYTE LABS LLP
+- CTO @ ***** PVT LTD
 
 
 <p align="center">
