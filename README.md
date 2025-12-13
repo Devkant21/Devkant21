@@ -17,6 +17,9 @@
 ### OSS Projects
 
 <!-- OSS Projects:START -->
+- [Nyra - Crate](https://crate.io/crates/nyra)
+
+- [Wardenclyffe - Crate](https://crates.io/crates/wardenclyffe)
 
 - [Keyache - npm package](https://www.npmjs.com/package/keyache)
 
