@@ -17,7 +17,7 @@
 ### OSS Projects
 
 <!-- OSS Projects:START -->
-- [Nyra - Crate](https://crate.io/crates/nyra)
+- [Nyra - Crate](https://crates.io/crates/nyra)
 
 - [Wardenclyffe - Crate](https://crates.io/crates/wardenclyffe)
 
