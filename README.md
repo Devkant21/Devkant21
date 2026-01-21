@@ -21,6 +21,8 @@
 ### OSS Projects
 
 <!-- OSS Projects:START -->
+- [HEIC to PNG Converter](/https://github.com/Devkant21/HEIC_PNG_converter)
+
 - [Nyra - Crate](https://crates.io/crates/nyra)
 
 - [Wardenclyffe - Crate](https://crates.io/crates/wardenclyffe)
