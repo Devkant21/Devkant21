@@ -4,7 +4,7 @@
 - CTO @ ***** PVT LTD
 
 ### pièce de résistance
-- [STURM - On demand Logistic / Cargo service](https://sturm.express) 
+- [STURM - On demand Logistics / Cargo service](https://sturm.express) 
 - [VIERBYTE LABS - Software Agency](https://vierbytelabs.com)
 
 
