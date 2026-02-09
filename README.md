@@ -1,11 +1,6 @@
 ## Hi there, I’m [DEVKANT SWARGIARY][website].
 
 - Engineering @VIERBYTE LABS LLP
-- CTO @ ***** PVT LTD
-
-### pièce de résistance
-- [STURM - On demand Logistics / Cargo service](https://sturm.express) 
-- [VIERBYTE LABS - Software Agency](https://vierbytelabs.com)
 
 
 <p align="center">
